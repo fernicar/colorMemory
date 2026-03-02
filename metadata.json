@@ -1,0 +1,5 @@
+{
+  "name": "colorMemory",
+  "description": "A color memory game that tests how well humans can recall specific colors.",
+  "requestFramePermissions": []
+}
